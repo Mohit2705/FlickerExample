@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticeCode</string>
+    <string name="search_for_any_picture">Search for any picture</string>
+    <string name="no_photo_msg">No photo found</string>
+</resources>
